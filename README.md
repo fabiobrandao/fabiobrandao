@@ -4,6 +4,6 @@ Sou **Fábio Brandão**, Fullstack Developer, graduado em Ciência da Computaç�
 
 Meu hobby é **programar**, escutar música e jogar nintendo 8 bits.
 
-Trabalho com diversas tecnologias e linguagens e adoro um bom código. Minha especialidade é o desenvolvimento Web e os sabores .NET.
+Trabalho com diversas tecnologias e linguagens e adoro um bom código. Minha especialidade é o desenvolvimento Web e os sabores de Microsoft .NET.
 
 Para mais informações e contato visite https://fabiobrandao.net.br
